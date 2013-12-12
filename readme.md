@@ -1,6 +1,6 @@
 # ag-operator.vim
 
-Simple plugins that exposes [Ag][1] command as a
+Simple plugin that exposes [Ag][1] command as a
 vim operator that can be used with motions and
 selections. Only characterwise motions and selections
 are supported.
