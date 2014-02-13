@@ -15,7 +15,7 @@ combined with motion (normal mode) or selection
 (characterwise visual mode).
 
 ```viml
-<leader>gciw " in normal mode search inner word
+<leader>giw " in normal mode search inner word
 viw<leader>g " in visual mode search selected word
 ```
 
